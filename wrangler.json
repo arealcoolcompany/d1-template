@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ee2cdb5a-a3c7-4973-b03f-6a27ed009d88",
+			"database_name": "cerebrex-registry"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
